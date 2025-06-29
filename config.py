@@ -12,3 +12,4 @@ print (message)
 new-line = "loose"
 newChange = "problem"
 newChange = "problem gone"
+variable = "try new thing"
